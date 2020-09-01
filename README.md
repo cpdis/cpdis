@@ -40,6 +40,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Week of August 24, 2020](https://www.colindismuke.com/week-of-august-24-2020/)
+- [Of Note – Week of August 17, 2020](https://www.colindismuke.com/of-note-week-of-august-17-2020/)
+- [Of Note – Week of August 10, 2020](https://www.colindismuke.com/of-note-week-of-august-10-2020/)
+- [Of Note  – Week of August 3, 2020](https://www.colindismuke.com/of-note-week-of-august-3-2020/)
+- [Of Note – Week of July 27, 2020](https://www.colindismuke.com/of-note-week-of-july-27-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.colindismuke.com)
