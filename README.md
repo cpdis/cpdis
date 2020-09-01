@@ -3,7 +3,8 @@
 [![Website](https://img.shields.io/website?label=colindismuke.com&style=for-the-badge&url=https%3A%2F%2Fwww.colindismuke.com)](https://www.colindismuke.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cpdis?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%cpdis&screen_name=cpdis)
 
-## I'm an ocean engineer and web developer	🌊 x 💻
+## I'm an ocean engineer and web developer 🌊 x 💻
+
 - 🔭 I’m currently working Perth, Australia doing ocean engineering things.
 - 🌱 I’m currently learning everything 🤣
 - ⛏️ I’m working on [wfh.toys] and thinking about other side projects.
@@ -44,6 +45,19 @@
 ➡️ [more blog posts...](https://www.colindismuke.com)
 
 ---
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="cpdis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cpdis&show_icons=true&hide_border=true&count_private=true" />
 
 </details>
 
