@@ -47,18 +47,12 @@
 ---
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
+    <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="cpdis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cpdis&show_icons=true&hide_border=true&count_private=true" />
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="cpdis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cpdis&show_icons=true&hide_border=true&count_private=true" />
-
 </details>
 
 [website]: https://www.colindismuke.com
