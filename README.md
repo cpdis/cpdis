@@ -1,6 +1,6 @@
 ### Hi, I'm Colin or [cpdis][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.colindismuke.com)
+[![Website](https://img.shields.io/website?label=colindismuke.com&style=for-the-badge&url=https%3A%2F%2Fwww.colindismuke.com)](https://www.colindismuke.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cpdis?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%cpdis&screen_name=cpdis)
 
 ## I'm an ocean engineer and web developer	🌊 x 💻
